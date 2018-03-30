@@ -25,21 +25,21 @@ Surge、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Postern 的配置规则
 
 Surge / Kitsunebi / Postern
 
-[https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge.conf)
+[https://raw.githubusercontent.com/zhuruliang/Profiles/master/Surge.conf](https://raw.githubusercontent.com/zhuruliang/Profiles/master/Surge.conf)
 
 Shadowrocket / Pepi(ShadowRay)
 
-[https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow.conf)
+[https://raw.githubusercontent.com/zhuruliang/Profiles/master/Shadow.conf](https://raw.githubusercontent.com/zhuruliang/Profiles/master/Shadow.conf)
 
 **特别版**
 
 Surge / Kitsunebi / Postern
 
-[https://raw.githubusercontent.com/ConnersHua/Profiles/master/SurgeS.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/SurgeS.conf)
+[https://raw.githubusercontent.com/zhuruliang/Profiles/master/SurgeS.conf](https://raw.githubusercontent.com/zhuruliang/Profiles/master/SurgeS.conf)
 
 Shadowrocket / Pepi(ShadowRay)
 
-[https://raw.githubusercontent.com/ConnersHua/Profiles/master/ShadowS.conf](https://raw.githubusercontent.com/ConnersHua/Profiles/master/ShadowS.conf)
+[https://raw.githubusercontent.com/zhuruliang/Profiles/master/ShadowS.conf](https://raw.githubusercontent.com/zhuruliang/Profiles/master/ShadowS.conf)
 
 # 感谢
 
@@ -52,3 +52,5 @@ Shadowrocket / Pepi(ShadowRay)
 # 许可
 
 转载需注明作者及项目地址
+
+
